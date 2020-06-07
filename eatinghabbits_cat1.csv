@@ -1,4 +1,4 @@
-﻿Country;IDCountry;populationGroup;IDpopulationGroup;Category1;IDCategory1;avg_consume [grams/day/person];avg_consume [grams/kg body weight];CategoryLevel
+﻿Country;IDCountry;populationGroup;IDpopulationGroup;Category1;IDCategory1;avg_GramsPerDay;avg_consume [grams/kg body weight];CategoryLevel
 Italy;108;Infants;1;Alcoholic beverages;10489503;0;0;1
 Germany;56;Infants;1;Alcoholic beverages;10489503;0,058;0,006;1
 Finland;70;Infants;1;Coffee and Tea;10489360;0,251;0,031;1
