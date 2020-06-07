@@ -1,4 +1,4 @@
-﻿Country;IDCountry;populationGroup;IDpopulationGroup;CategoryLevel;Category1;IDCategory1;Category2;IDCategory2;avg_consume [grams/day/person];avg_consume [grams/kg body weight]
+﻿Country;IDCountry;populationGroup;IDpopulationGroup;CategoryLevel;Category1;IDCategory1;Category2;IDCategory2;avg_GramsPerDay;avg_GramsPerKg
 Czech Republic;55;Adults;10;1;Water and water based drinks;10489266;NULL;NULL;1426,705;19,545
 Estonia;63;Adolescents;7;2;Alcoholic beverages;10489503;Mixed Alcoholic Drinks;10489589;1350;16,564
 Czech Republic;55;Adults;10;2;Water and water based drinks;10489266;Drinking water;10489267;1312,626;17,988
