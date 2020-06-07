@@ -1,0 +1,954 @@
+﻿Country;IDCountry;populationGroup;IDpopulationGroup;Category1;IDCategory1;avg_consume [grams/day/person];avg_consume [grams/kg body weight];CategoryLevel
+Italy;108;Infants;1;Alcoholic beverages;10489503;0;0;1
+Germany;56;Infants;1;Alcoholic beverages;10489503;0,058;0,006;1
+Finland;70;Infants;1;Coffee and Tea;10489360;0,251;0,031;1
+Estonia;63;Infants;1;Sugar and similars;10488911;2,281;0,25;1
+Spain;67;Infants;1;Coffee and Tea;10489360;2,222;0,262;1
+Spain;67;Infants;1;Sugar and similars;10488911;2,55;0,276;1
+Germany;56;Infants;1;Sugar and similars;10488911;2,844;0,31;1
+Denmark;58;Infants;1;Sugar and similars;10488911;4,153;0,45;1
+United Kingdom;77;Infants;1;Alcoholic beverages;10489503;3,927;0,422;1
+Italy;108;Adolescents;7;Alcoholic beverages;10489503;4,53;0,072;1
+Spain;67;Adolescents;7;Alcoholic beverages;10489503;5;0,118;1
+Finland;70;Infants;1;Fish;10488027;5,122;0,64;1
+Czech Republic;55;Adolescents;7;Coffee and Tea;10489360;5,125;0,119;1
+France;75;Infants;1;Sugar and similars;10488911;5,867;0,631;1
+Portugal;180;Infants;1;Sugar and similars;10488911;7,011;0,841;1
+Germany;56;Infants;1;Fish;10488027;7,193;0,759;1
+United Kingdom;77;Infants;1;Sugar and similars;10488911;7,171;0,759;1
+Latvia;132;Infants;1;Sugar and similars;10488911;7,74;1,201;1
+Portugal;180;Infants;1;Alcoholic beverages;10489503;8;0,967;1
+Denmark;58;Infants;1;Fish;10488027;8,121;0,872;1
+Latvia;132;Adolescents;7;Alcoholic beverages;10489503;8,533;0,207;1
+Austria;14;Adolescents;7;Alcoholic beverages;10489503;8,814;0,174;1
+Finland;70;Infants;1;Sugar and similars;10488911;9,16;1,146;1
+Spain;67;Adults;10;Coffee and Tea;10489360;9,658;0,151;1
+France;75;Infants;1;Fish;10488027;9,78;1,076;1
+Portugal;180;Adolescents;7;Alcoholic beverages;10489503;10,361;0,195;1
+Spain;67;Adults;10;Coffee and Tea;10489360;10,426;0,147;1
+United Kingdom;77;Infants;1;Fish;10488027;11,35;1,206;1
+Czech Republic;55;Adults;10;Coffee and Tea;10489360;11,634;0,158;1
+Spain;67;Adolescents;7;Coffee and Tea;10489360;11,785;0,248;1
+Bulgaria;24;Infants;1;Sugar and similars;10488911;11,262;1,509;1
+Spain;67;Elderly;12;Sugar and similars;10488911;11,813;0,167;1
+Spain;67;Adolescents;7;Coffee and Tea;10489360;12,97;0,217;1
+France;75;Infants;1;Coffee and Tea;10489360;13,343;1,533;1
+Denmark;58;Adolescents;7;Fish;10488027;14,478;0,292;1
+Denmark;58;Adolescents;7;Fish;10488027;14,818;0,302;1
+Spain;67;Adults;10;Sugar and similars;10488911;13,693;0,198;1
+Italy;108;Infants;1;Sugar and similars;10488911;13,813;1,515;1
+Germany;56;Infants;1;Meat;10487577;15,013;1,582;1
+Portugal;180;Infants;1;Meat;10487577;16,357;1,883;1
+Spain;67;Adolescents;7;Sugar and similars;10488911;15,241;0,328;1
+Estonia;63;Infants;1;Fish;10488027;16,869;1,778;1
+Romania;185;Elderly;12;Sugar and similars;10488911;15,668;0,218;1
+Spain;67;Infants;1;Grains and grain products;10485778;15,714;1,686;1
+Italy;108;Infants;1;Fish;10488027;17,205;1,721;1
+Finland;70;Infants;1;Meat;10487577;17,308;2,189;1
+United Kingdom;77;Infants;1;Meat;10487577;17,508;1,873;1
+Austria;14;Elderly;12;Sugar and similars;10488911;16,291;0,213;1
+Ireland;101;Elderly;12;Sugar and similars;10488911;17,154;0,232;1
+France;75;Infants;1;Meat;10487577;18,799;1,964;1
+Finland;70;Infants;1;Grains and grain products;10485778;17,568;2,195;1
+France;75;Elderly;12;Sugar and similars;10488911;17,8;0,252;1
+Portugal;180;Infants;1;Fish;10488027;19,84;2,271;1
+France;75;Elderly;12;Sugar and similars;10488911;18,156;0,268;1
+Finland;70;Elderly;12;Sugar and similars;10488911;18,163;0,238;1
+Sweden;193;Elderly;12;Sugar and similars;10488911;18,181;0,251;1
+Denmark;58;Adults;10;Fish;10488027;20,355;0,28;1
+Spain;67;Adults;10;Sugar and similars;10488911;18,79;0,295;1
+Spain;67;Adolescents;7;Coffee and Tea;10489360;20,689;0,383;1
+Romania;185;Adults;10;Sugar and similars;10488911;18,937;0,271;1
+Denmark;58;Infants;1;Coffee and Tea;10489360;20,825;2,344;1
+Croatia;97;Adults;10;Sugar and similars;10488911;19,125;0,266;1
+Cyprus;54;Adolescents;7;Sugar and similars;10488911;19,736;0,418;1
+Spain;67;Adolescents;7;Coffee and Tea;10489360;22,32;0,464;1
+Estonia;63;Infants;1;Meat;10487577;22,633;2,463;1
+Denmark;58;Adults;10;Fish;10488027;22,636;0,307;1
+Denmark;58;Infants;1;Meat;10487577;22,858;2,454;1
+Spain;67;Adults;10;Sugar and similars;10488911;21,061;0,31;1
+Portugal;180;Infants;1;Grains and grain products;10485778;21,199;2,406;1
+Bulgaria;24;Elderly;12;Sugar and similars;10488911;21,252;0,301;1
+Italy;108;Elderly;12;Sugar and similars;10488911;21,637;0,312;1
+Sweden;193;Adults;10;Sugar and similars;10488911;22,012;0,309;1
+Italy;108;Infants;1;Vegetables;10486258;22,185;2,473;1
+France;75;Adults;10;Sugar and similars;10488911;22,431;0,332;1
+Austria;14;Adolescents;7;Sugar and similars;10488911;22,5;0,512;1
+Germany;56;Elderly;12;Sugar and similars;10488911;22,678;0,302;1
+Ireland;101;Adults;10;Sugar and similars;10488911;22,729;0,306;1
+Czech Republic;55;Adults;10;Sugar and similars;10488911;22,758;0,31;1
+Italy;108;Adults;10;Sugar and similars;10488911;22,824;0,34;1
+France;75;Adolescents;7;Fish;10488027;25,499;0,53;1
+Bulgaria;24;Infants;1;Alcoholic beverages;10489503;25,583;2,558;1
+Denmark;58;Elderly;12;Fish;10488027;25,88;0,364;1
+Spain;67;Adolescents;7;Sugar and similars;10488911;23,845;0,464;1
+Portugal;180;Elderly;12;Sugar and similars;10488911;23,878;0,33;1
+United Kingdom;77;Elderly;12;Sugar and similars;10488911;23,952;0,324;1
+Bulgaria;24;Infants;1;Fish;10488027;26,452;2,98;1
+Finland;70;Elderly;12;Sugar and similars;10488911;24,434;0,326;1
+Estonia;63;Infants;1;Grains and grain products;10485778;24,464;2,667;1
+Denmark;58;Elderly;12;Fish;10488027;26,947;0,36;1
+Hungary;99;Elderly;12;Sugar and similars;10488911;25,048;0,348;1
+Finland;70;Adolescents;7;Fish;10488027;28,081;0,539;1
+United Kingdom;77;Adults;10;Sugar and similars;10488911;25,182;0,343;1
+Netherlands;162;Elderly;12;Sugar and similars;10488911;25,304;0,341;1
+Italy;108;Adolescents;7;Sugar and similars;10488911;25,323;0,514;1
+Estonia;63;Elderly;12;Sugar and similars;10488911;25,47;0,337;1
+Portugal;180;Adolescents;7;Sugar and similars;10488911;25,486;0,529;1
+France;75;Adolescents;7;Sugar and similars;10488911;25,657;0,551;1
+Spain;67;Adolescents;7;Sugar and similars;10488911;25,929;0,423;1
+Belgium;22;Elderly;12;Sugar and similars;10488911;25,968;0,359;1
+France;75;Infants;1;Grains and grain products;10485778;25,972;2,663;1
+Finland;70;Adults;10;Sugar and similars;10488911;26,072;0,352;1
+Portugal;180;Adults;10;Sugar and similars;10488911;26,153;0,371;1
+Austria;14;Adults;10;Sugar and similars;10488911;26,166;0,373;1
+Sweden;193;Adults;10;Sugar and similars;10488911;26,196;0,367;1
+Bulgaria;24;Adults;10;Sugar and similars;10488911;26,245;0,393;1
+Sweden;193;Adolescents;7;Fish;10488027;28,894;0,725;1
+Germany;56;Adolescents;7;Alcoholic beverages;10489503;28,918;0,861;1
+Slovenia;196;Adults;10;Sugar and similars;10488911;26,96;0,387;1
+Estonia;63;Adults;10;Sugar and similars;10488911;27,429;0,376;1
+Italy;108;Infants;1;Meat;10487577;30,274;3,075;1
+Netherlands;162;Elderly;12;Sugar and similars;10488911;27,81;0,367;1
+Spain;67;Adolescents;7;Sugar and similars;10488911;28,038;0,585;1
+United Kingdom;77;Adults;10;Sugar and similars;10488911;28,214;0,389;1
+Estonia;63;Adolescents;7;Sugar and similars;10488911;28,457;0,762;1
+Latvia;132;Elderly;12;Sugar and similars;10488911;28,583;0,365;1
+France;75;Adults;10;Sugar and similars;10488911;28,811;0,43;1
+Sweden;193;Adults;10;Fish;10488027;31,755;0,444;1
+Ireland;101;Adults;10;Sugar and similars;10488911;29,66;0,409;1
+Sweden;193;Adolescents;7;Sugar and similars;10488911;29,795;0,738;1
+Denmark;58;Elderly;12;Sugar and similars;10488911;29,898;0,427;1
+United Kingdom;77;Adolescents;7;Fish;10488027;32,303;0,609;1
+Ireland;101;Adults;10;Fish;10488027;32,385;0,434;1
+Finland;70;Adolescents;7;Alcoholic beverages;10489503;32,659;0,6;1
+United Kingdom;77;Infants;1;Coffee and Tea;10489360;32,719;3,413;1
+France;75;Adolescents;7;Alcoholic beverages;10489503;32,86;0,537;1
+United Kingdom;77;Adolescents;7;Sugar and similars;10488911;30,42;0,59;1
+Czech Republic;55;Adolescents;7;Sugar and similars;10488911;30,669;0,73;1
+Estonia;63;Adults;10;Sugar and similars;10488911;30,951;0,461;1
+Denmark;58;Elderly;12;Sugar and similars;10488911;31,28;0,42;1
+France;75;Adults;10;Fish;10488027;34,558;0,516;1
+Hungary;99;Adults;10;Sugar and similars;10488911;32,013;0,46;1
+United Kingdom;77;Adults;10;Fish;10488027;35,04;0,473;1
+France;75;Adolescents;7;Alcoholic beverages;10489503;35,184;0,635;1
+Latvia;132;Infants;1;Fish;10488027;35,411;4,242;1
+Germany;56;Adolescents;7;Fish;10488027;35,507;0,959;1
+Germany;56;Adults;10;Sugar and similars;10488911;32,654;0,443;1
+Finland;70;Adults;10;Sugar and similars;10488911;33,111;0,451;1
+Netherlands;162;Adults;10;Sugar and similars;10488911;33,209;0,446;1
+Bulgaria;24;Adolescents;7;Sugar and similars;10488911;33,557;0,557;1
+Denmark;58;Infants;1;Vegetables;10486258;33,825;3,709;1
+Germany;56;Adolescents;7;Sugar and similars;10488911;34,276;0,567;1
+France;75;Elderly;12;Fish;10488027;37,329;0,544;1
+Finland;70;Adolescents;7;Sugar and similars;10488911;34,331;0,644;1
+Bulgaria;24;Infants;1;Meat;10487577;37,494;4,228;1
+Belgium;22;Adults;10;Sugar and similars;10488911;34,525;0,511;1
+Sweden;193;Adolescents;7;Vegetables;10486258;34,822;0,853;1
+Latvia;132;Adolescents;7;Sugar and similars;10488911;35,001;0,718;1
+Denmark;58;Adults;10;Sugar and similars;10488911;35,064;0,482;1
+Latvia;132;Adults;10;Sugar and similars;10488911;35,084;0,472;1
+Denmark;58;Adults;10;Sugar and similars;10488911;35,699;0,501;1
+Estonia;63;Adolescents;7;Sugar and similars;10488911;35,934;0,647;1
+Estonia;63;Infants;1;Coffee and Tea;10489360;39,144;4,496;1
+Spain;67;Infants;1;Fish;10488027;39,906;4,285;1
+France;75;Adolescents;7;Sugar and similars;10488911;37,63;0,775;1
+United Kingdom;77;Infants;1;Grains and grain products;10485778;38,525;4,13;1
+Romania;185;Adults;10;Fish;10488027;42,726;0,59;1
+Finland;70;Infants;1;Vegetables;10486258;39,121;4,893;1
+Latvia;132;Adults;10;Sugar and similars;10488911;39,163;0,535;1
+Romania;185;Adolescents;7;Sugar and similars;10488911;39,464;0,88;1
+Austria;14;Adults;10;Sugar and similars;10488911;39,844;0,6;1
+Estonia;63;Adolescents;7;Fish;10488027;43,601;0,77;1
+Netherlands;162;Adolescents;7;Fish;10488027;44,975;0,823;1
+Portugal;180;Infants;1;Coffee and Tea;10489360;45;5,383;1
+Portugal;180;Adolescents;7;Fish;10488027;45,232;0,903;1
+Netherlands;162;Adults;10;Sugar and similars;10488911;40,192;0,552;1
+Latvia;132;Infants;1;Meat;10487577;45,481;6,365;1
+Estonia;63;Adolescents;7;Fish;10488027;45,514;1,252;1
+Belgium;22;Adolescents;7;Fish;10488027;45,848;0,781;1
+United Kingdom;77;Adults;10;Fish;10488027;45,855;0,621;1
+Denmark;58;Adolescents;7;Sugar and similars;10488911;41,731;0,851;1
+Netherlands;162;Adolescents;7;Sugar and similars;10488911;41,963;0,86;1
+Cyprus;54;Adolescents;7;Fish;10488027;46,35;0,936;1
+Spain;67;Infants;1;Meat;10487577;46,46;5,149;1
+Ireland;101;Adults;10;Fish;10488027;46,494;0,614;1
+Germany;56;Infants;1;Vegetables;10486258;42,085;4,785;1
+Belgium;22;Adolescents;7;Sugar and similars;10488911;43,092;0,724;1
+Germany;56;Infants;1;Grains and grain products;10485778;43,095;4,807;1
+Denmark;58;Adolescents;7;Sugar and similars;10488911;44,026;0,91;1
+Germany;56;Adolescents;7;Sugar and similars;10488911;44,475;1,177;1
+Netherlands;162;Adults;10;Fish;10488027;48,892;0,671;1
+Finland;70;Infants;1;Fruit and fruit products;10487162;49,558;6,171;1
+United Kingdom;77;Elderly;12;Fish;10488027;49,745;0,644;1
+Poland;175;Elderly;12;Sugar and similars;10488911;45,245;0,627;1
+France;75;Adolescents;7;Fish;10488027;50,657;1,056;1
+Bulgaria;24;Infants;1;Vegetables;10486258;46,827;5,324;1
+Latvia;132;Adolescents;7;Fish;10488027;51,691;0,973;1
+Estonia;63;Infants;1;Vegetables;10486258;47,819;5,335;1
+United Kingdom;77;Infants;1;Vegetables;10486258;49,309;5,359;1
+Austria;14;Adolescents;7;Fish;10488027;53,939;1,225;1
+Netherlands;162;Adults;10;Fish;10488027;54,536;0,708;1
+Ireland;101;Elderly;12;Fish;10488027;55,096;0,744;1
+Estonia;63;Elderly;12;Fish;10488027;55,124;0,689;1
+Germany;56;Adolescents;7;Fish;10488027;55,332;0,878;1
+Sweden;193;Adults;10;Fish;10488027;55,621;0,758;1
+Hungary;99;Elderly;12;Fish;10488027;56,617;0,721;1
+Finland;70;Infants;1;Milk and Milk based Products;10488473;57,199;7,133;1
+Spain;67;Adults;10;Fish;10488027;58,02;0,82;1
+Latvia;132;Infants;1;Grains and grain products;10485778;51,843;7,59;1
+Estonia;63;Adults;10;Fish;10488027;58,868;0,784;1
+Italy;108;Infants;1;Grains and grain products;10485778;52,749;5,75;1
+Italy;108;Infants;1;Coffee and Tea;10489360;60;10,58;1
+Slovakia;198;Adults;10;Sugar and similars;10488911;53,526;0,78;1
+Poland;175;Adults;10;Sugar and similars;10488911;53,569;0,766;1
+United Kingdom;77;Infants;1;Fruit and fruit products;10487162;60,804;6,617;1
+Spain;67;Adolescents;7;Fish;10488027;60,983;0,986;1
+Bulgaria;24;Infants;1;Grains and grain products;10485778;53,635;6,099;1
+Belgium;22;Adults;10;Fish;10488027;61,571;0,883;1
+Spain;67;Adolescents;7;Alcoholic beverages;10489503;61,738;0,959;1
+Denmark;58;Infants;1;Grains and grain products;10485778;54,291;5,834;1
+Latvia;132;Adolescents;7;Sugar and similars;10488911;54,768;1,118;1
+Finland;70;Adults;10;Fish;10488027;62,722;0,83;1
+Romania;185;Elderly;12;Fish;10488027;63,419;0,878;1
+France;75;Adults;10;Fish;10488027;63,849;0,915;1
+Bulgaria;24;Infants;1;Fruit and fruit products;10487162;64,531;7,488;1
+Latvia;132;Adolescents;7;Fish;10488027;64,647;1,345;1
+Portugal;180;Adults;10;Fish;10488027;64,709;0,893;1
+Germany;56;Adults;10;Fish;10488027;64,973;0,863;1
+Latvia;132;Adults;10;Fish;10488027;65,121;0,843;1
+Estonia;63;Infants;1;Milk and Milk based Products;10488473;65,25;7,809;1
+Portugal;180;Elderly;12;Fish;10488027;65,286;0,863;1
+Sweden;193;Adults;10;Meat;10487577;65,59;0,904;1
+France;75;Elderly;12;Fish;10488027;65,898;0,931;1
+Spain;67;Adolescents;7;Fish;10488027;66,008;1,257;1
+Estonia;63;Infants;1;Fruit and fruit products;10487162;66,159;7,223;1
+Spain;67;Elderly;12;Fish;10488027;66,186;0,926;1
+Italy;108;Elderly;12;Fish;10488027;66,946;0,926;1
+Italy;108;Adults;10;Fish;10488027;67,061;0,989;1
+Finland;70;Adults;10;Fish;10488027;67,832;0,906;1
+Poland;175;Adolescents;7;Sugar and similars;10488911;61,682;1,364;1
+Netherlands;162;Elderly;12;Fish;10488027;68,506;0,887;1
+Hungary;99;Adults;10;Fish;10488027;68,921;0,951;1
+Germany;56;Infants;1;Fruit and fruit products;10487162;69,027;7,81;1
+Germany;56;Elderly;12;Fish;10488027;69,45;0,901;1
+Czech Republic;55;Adolescents;7;Fish;10488027;69,499;1,592;1
+Sweden;193;Adults;10;Vegetables;10486258;64,493;0,916;1
+Italy;108;Adolescents;7;Fish;10488027;71,461;1,397;1
+Spain;67;Adolescents;7;Fish;10488027;72,097;1,5;1
+Austria;14;Adolescents;7;Vegetables;10486258;65,595;1,405;1
+Sweden;193;Adolescents;7;Meat;10487577;73,539;1,805;1
+France;75;Adolescents;7;Coffee and Tea;10489360;73,575;1,451;1
+Spain;67;Adolescents;7;Fish;10488027;73,591;1,546;1
+Finland;70;Elderly;12;Fish;10488027;74,879;0,971;1
+Sweden;193;Elderly;12;Fish;10488027;75,05;1,017;1
+Denmark;58;Infants;1;Fruit and fruit products;10487162;75,546;8,244;1
+Latvia;132;Infants;1;Vegetables;10486258;69,557;9,511;1
+Belgium;22;Elderly;12;Fish;10488027;76,172;1,036;1
+Netherlands;162;Elderly;12;Fish;10488027;79,112;1,015;1
+Austria;14;Adults;10;Fish;10488027;79,379;1,165;1
+Finland;70;Elderly;12;Fish;10488027;79,418;1,041;1
+Czech Republic;55;Adults;10;Fish;10488027;79,578;1,077;1
+United Kingdom;77;Adolescents;7;Meat;10487577;79,919;1,518;1
+Spain;67;Infants;1;Water and water based beverages;10489266;80,257;8,817;1
+Spain;67;Adults;10;Fish;10488027;80,274;1,143;1
+United Kingdom;77;Adolescents;7;Fruit and fruit products;10487162;80,572;1,608;1
+Croatia;97;Adults;10;Fish;10488027;80,698;1,07;1
+Finland;70;Adolescents;7;Coffee and Tea;10489360;80,77;1,485;1
+France;75;Adolescents;7;Coffee and Tea;10489360;80,969;1,577;1
+Denmark;58;Adolescents;7;Coffee and Tea;10489360;82,425;1,518;1
+Denmark;58;Adolescents;7;Coffee and Tea;10489360;82,824;1,555;1
+Cyprus;54;Adolescents;7;Meat;10487577;82,965;1,627;1
+Latvia;132;Elderly;12;Fish;10488027;83,709;1,036;1
+United Kingdom;77;Elderly;12;Meat;10487577;83,944;1,074;1
+Spain;67;Adults;10;Fish;10488027;84,011;1,26;1
+United Kingdom;77;Adolescents;7;Vegetables;10486258;75,876;1,479;1
+Germany;56;Adolescents;7;Vegetables;10486258;75,965;1,227;1
+France;75;Adolescents;7;Fruit and fruit products;10487162;84,641;1,769;1
+Spain;67;Elderly;12;Coffee and Tea;10489360;84,729;1,182;1
+Spain;67;Adults;10;Coffee and Tea;10489360;84,799;1,179;1
+Germany;56;Adolescents;7;Meat;10487577;84,972;2,206;1
+Austria;14;Adolescents;7;Fruit and fruit products;10487162;85,159;1,911;1
+Bulgaria;24;Infants;1;Coffee and Tea;10489360;86,005;9,926;1
+Sweden;193;Adults;10;Vegetables;10486258;78,689;1,084;1
+Latvia;132;Adults;10;Fish;10488027;86,212;1,134;1
+Sweden;193;Elderly;12;Vegetables;10486258;79,345;1,099;1
+Spain;67;Elderly;12;Meat;10487577;89,388;1,219;1
+Austria;14;Elderly;12;Fish;10488027;92,8;1,285;1
+Spain;67;Infants;1;Vegetables;10486258;84,979;9,37;1
+France;75;Adolescents;7;Meat;10487577;94,361;1,922;1
+Italy;108;Infants;1;Fruit and fruit products;10487162;94,559;10,13;1
+Sweden;193;Adolescents;7;Fruit and fruit products;10487162;95,494;2,319;1
+France;75;Infants;1;Fruit and fruit products;10487162;95,663;10,744;1
+Ireland;101;Adults;10;Fruit and fruit products;10487162;95,724;1,313;1
+Austria;14;Adolescents;7;Meat;10487577;95,998;2,075;1
+Latvia;132;Infants;1;Coffee and Tea;10489360;96,586;13,41;1
+Netherlands;162;Adolescents;7;Meat;10487577;97,58;1,875;1
+United Kingdom;77;Adults;10;Meat;10487577;97,896;1,29;1
+Portugal;180;Adolescents;7;Coffee and Tea;10489360;98,512;1,92;1
+Germany;56;Adolescents;7;Meat;10487577;99,532;1,585;1
+Spain;67;Adolescents;7;Vegetables;10486258;89,469;1,711;1
+Latvia;132;Adolescents;7;Vegetables;10486258;89,573;1,754;1
+Cyprus;54;Adolescents;7;Vegetables;10486258;93,109;1,761;1
+Austria;14;Adults;10;Meat;10487577;100,113;1,498;1
+France;75;Adolescents;7;Vegetables;10486258;94,214;1,97;1
+Germany;56;Infants;1;Coffee and Tea;10489360;102,24;11,435;1
+Netherlands;162;Adolescents;7;Vegetables;10486258;94,923;1,834;1
+Germany;56;Elderly;12;Meat;10487577;103,831;1,321;1
+United Kingdom;77;Adults;10;Meat;10487577;104,935;1,39;1
+Estonia;63;Adults;10;Fish;10488027;105,657;1,514;1
+Netherlands;162;Adolescents;7;Fruit and fruit products;10487162;105,944;2,104;1
+Latvia;132;Infants;1;Fruit and fruit products;10487162;106,049;15,226;1
+Portugal;180;Elderly;12;Meat;10487577;106,203;1,414;1
+Portugal;180;Adolescents;7;Fruit and fruit products;10487162;106,588;2,198;1
+Austria;14;Elderly;12;Meat;10487577;106,863;1,386;1
+Finland;70;Elderly;12;Meat;10487577;106,907;1,377;1
+Italy;108;Adolescents;7;Coffee and Tea;10489360;107,193;2,056;1
+Denmark;58;Adolescents;7;Fruit and fruit products;10487162;107,631;2,19;1
+France;75;Elderly;12;Meat;10487577;107,66;1,493;1
+Romania;185;Elderly;12;Alcoholic beverages;10489503;108,036;1,425;1
+Italy;108;Elderly;12;Meat;10487577;108,303;1,525;1
+Ireland;101;Adults;10;Fruit and fruit products;10487162;108,884;1,454;1
+Finland;70;Elderly;12;Meat;10487577;108,956;1,388;1
+Belgium;22;Adolescents;7;Meat;10487577;109,79;1,786;1
+Finland;70;Adolescents;7;Fruit and fruit products;10487162;110,043;2,077;1
+Sweden;193;Elderly;12;Meat;10487577;110,435;1,466;1
+France;75;Adults;10;Meat;10487577;111,467;1,616;1
+Netherlands;162;Elderly;12;Meat;10487577;111,713;1,43;1
+Estonia;63;Infants;1;Water and water based beverages;10489266;112,224;12,63;1
+United Kingdom;77;Adults;10;Fruit and fruit products;10487162;112,577;1,538;1
+Latvia;132;Adolescents;7;Meat;10487577;112,686;2,217;1
+United Kingdom;77;Adults;10;Fruit and fruit products;10487162;112,734;1,517;1
+Finland;70;Adolescents;7;Meat;10487577;112,995;2,134;1
+Bulgaria;24;Elderly;12;Meat;10487577;113,19;1,571;1
+Portugal;180;Infants;1;Vegetables;10486258;101,998;12,137;1
+Slovenia;196;Adults;10;Fish;10488027;113,988;1,499;1
+Spain;67;Adolescents;7;Vegetables;10486258;104,463;2,179;1
+Denmark;58;Elderly;12;Meat;10487577;114,755;1,522;1
+Italy;108;Adults;10;Meat;10487577;114,84;1,67;1
+Spain;67;Adults;10;Meat;10487577;114,853;1,606;1
+Netherlands;162;Adults;10;Vegetables;10486258;104,787;1,43;1
+Czech Republic;55;Adolescents;7;Vegetables;10486258;105,809;2,328;1
+Germany;56;Adults;10;Vegetables;10486258;106,134;1,435;1
+Germany;56;Adults;10;Meat;10487577;116,598;1,513;1
+Belgium;22;Adolescents;7;Vegetables;10486258;106,739;1,78;1
+Portugal;180;Infants;1;Fruit and fruit products;10487162;117,864;13,989;1
+Sweden;193;Adolescents;7;Alcoholic beverages;10489503;117,996;2,933;1
+Sweden;193;Adolescents;7;Coffee and Tea;10489360;118,117;3,012;1
+Denmark;58;Adolescents;7;Meat;10487577;118,282;2,39;1
+Estonia;63;Adolescents;7;Meat;10487577;118,364;3,172;1
+Portugal;180;Adolescents;7;Vegetables;10486258;108,669;2,174;1
+Poland;175;Adolescents;7;Fish;10488027;119,011;2,447;1
+Germany;56;Adolescents;7;Vegetables;10486258;109,8;2,899;1
+Denmark;58;Adolescents;7;Meat;10487577;119,688;2,39;1
+France;75;Adolescents;7;Fruit and fruit products;10487162;120,238;2,547;1
+Netherlands;162;Elderly;12;Meat;10487577;120,41;1,528;1
+Denmark;58;Elderly;12;Meat;10487577;120,502;1,67;1
+Belgium;22;Elderly;12;Meat;10487577;120,681;1,661;1
+Estonia;63;Adolescents;7;Vegetables;10486258;110,86;1,975;1
+Belgium;22;Adults;10;Meat;10487577;121,156;1,714;1
+Cyprus;54;Adolescents;7;Fruit and fruit products;10487162;121,845;2,456;1
+Netherlands;162;Adults;10;Fruit and fruit products;10487162;123,564;1,69;1
+Italy;108;Adolescents;7;Meat;10487577;124,607;2,467;1
+Estonia;63;Elderly;12;Meat;10487577;124,646;1,579;1
+Netherlands;162;Adults;10;Meat;10487577;124,88;1,606;1
+Austria;14;Elderly;12;Vegetables;10486258;113,204;1,469;1
+Finland;70;Adolescents;7;Vegetables;10486258;113,434;2,127;1
+Germany;56;Elderly;12;Vegetables;10486258;114,089;1,505;1
+Austria;14;Adults;10;Fish;10488027;125,279;1,906;1
+Spain;67;Adults;10;Alcoholic beverages;10489503;125,307;1,77;1
+Finland;70;Elderly;12;Vegetables;10486258;116,391;1,556;1
+Estonia;63;Adolescents;7;Meat;10487577;128,878;2,288;1
+Czech Republic;55;Adults;10;Vegetables;10486258;119,017;1,62;1
+Slovakia;198;Adults;10;Fish;10488027;130,745;1,735;1
+Austria;14;Adults;10;Vegetables;10486258;120,647;1,757;1
+Belgium;22;Adolescents;7;Fruit and fruit products;10487162;131,685;2,23;1
+Sweden;193;Adults;10;Meat;10487577;132,271;1,748;1
+Denmark;58;Adults;10;Meat;10487577;132,598;1,762;1
+Cyprus;54;Adolescents;7;Coffee and Tea;10489360;132,972;2,766;1
+Latvia;132;Infants;1;Water and water based beverages;10489266;133,731;18,951;1
+Netherlands;162;Adults;10;Fruit and fruit products;10487162;134,368;1,799;1
+Latvia;132;Adolescents;7;Alcoholic beverages;10489503;134,5;1,979;1
+Finland;70;Adults;10;Meat;10487577;135,217;1,751;1
+United Kingdom;77;Adolescents;7;Alcoholic beverages;10489503;135,351;2,179;1
+Spain;67;Adolescents;7;Fruit and fruit products;10487162;135,542;2,618;1
+Denmark;58;Adults;10;Meat;10487577;135,651;1,831;1
+Sweden;193;Adults;10;Fruit and fruit products;10487162;135,941;1,901;1
+Finland;70;Adults;10;Meat;10487577;135,962;1,764;1
+Italy;108;Adults;10;Alcoholic beverages;10489503;136,048;1,893;1
+Austria;14;Elderly;12;Milk and Milk based Products;10488473;136,228;1,761;1
+Spain;67;Adolescents;7;Vegetables;10486258;124,899;2,047;1
+Latvia;132;Adults;10;Vegetables;10486258;125,204;1,669;1
+United Kingdom;77;Adults;10;Vegetables;10486258;126,775;1,723;1
+France;75;Elderly;12;Meat;10487577;138,192;1,896;1
+Spain;67;Adolescents;7;Vegetables;10486258;127,756;2,627;1
+Denmark;58;Adolescents;7;Vegetables;10486258;128,396;2,62;1
+Slovakia;198;Adults;10;Vegetables;10486258;129,1;1,799;1
+Denmark;58;Elderly;12;Vegetables;10486258;129,25;1,747;1
+United Kingdom;77;Adolescents;7;Coffee and Tea;10489360;139,915;2,522;1
+Portugal;180;Adults;10;Fruit and fruit products;10487162;139,983;1,976;1
+Estonia;63;Adults;10;Meat;10487577;140,043;1,84;1
+Finland;70;Adults;10;Vegetables;10486258;129,917;1,75;1
+Italy;108;Elderly;12;Coffee and Tea;10489360;140,927;1,998;1
+Ireland;101;Adults;10;Vegetables;10486258;130,646;1,745;1
+Ireland;101;Elderly;12;Fruit and fruit products;10487162;142,692;1,958;1
+United Kingdom;77;Infants;1;Water and water based beverages;10489266;142,709;15,47;1
+Italy;108;Adults;10;Coffee and Tea;10489360;143,102;2,137;1
+Portugal;180;Adolescents;7;Meat;10487577;143,167;2,788;1
+Spain;67;Adolescents;7;Fruit and fruit products;10487162;143,423;2,957;1
+Netherlands;162;Adults;10;Vegetables;10486258;132,792;1,757;1
+France;75;Adults;10;Fruit and fruit products;10487162;143,877;2,16;1
+Latvia;132;Adolescents;7;Meat;10487577;144,017;2,927;1
+Finland;70;Adolescents;7;Grains and grain products;10485778;133,777;2,515;1
+United Kingdom;77;Adults;10;Vegetables;10486258;133,943;1,802;1
+Spain;67;Elderly;12;Grains and grain products;10485778;134,012;1,864;1
+Latvia;132;Adults;10;Meat;10487577;144,119;1,867;1
+France;75;Adolescents;7;Meat;10487577;144,667;2,922;1
+United Kingdom;77;Elderly;12;Fruit and fruit products;10487162;144,989;1,943;1
+Cyprus;54;Adolescents;7;Alcoholic beverages;10489503;145;2,975;1
+Germany;56;Adolescents;7;Fruit and fruit products;10487162;145,584;3,801;1
+Bulgaria;24;Adults;10;Meat;10487577;145,71;2,078;1
+Sweden;193;Adults;10;Fruit and fruit products;10487162;146,067;2,058;1
+Portugal;180;Adults;10;Meat;10487577;146,146;2,01;1
+Czech Republic;55;Adults;10;Fruit and fruit products;10487162;146,51;2,041;1
+Belgium;22;Adults;10;Vegetables;10486258;135,251;1,953;1
+Netherlands;162;Adults;10;Meat;10487577;146,764;1,979;1
+Romania;185;Adults;10;Coffee and Tea;10489360;147,25;2,082;1
+Portugal;180;Adults;10;Vegetables;10486258;136,695;1,918;1
+Cyprus;54;Adolescents;7;Grains and grain products;10485778;137,228;2,773;1
+Bulgaria;24;Adolescents;7;Meat;10487577;147,613;2,44;1
+Spain;67;Adolescents;7;Meat;10487577;148,024;3,086;1
+Denmark;58;Adolescents;7;Fruit and fruit products;10487162;149,512;2,994;1
+Denmark;58;Adolescents;7;Vegetables;10486258;139,494;2,828;1
+Romania;185;Elderly;12;Meat;10487577;150,26;2,064;1
+France;75;Infants;1;Vegetables;10486258;142,723;16,199;1
+Romania;185;Adults;10;Milk and Milk based Products;10488473;151,688;2,133;1
+Spain;67;Adults;10;Meat;10487577;152,188;2,171;1
+Czech Republic;55;Adolescents;7;Meat;10487577;152,413;3,331;1
+Estonia;63;Adolescents;7;Vegetables;10486258;143,706;4,034;1
+Belgium;22;Elderly;12;Vegetables;10486258;143,824;2,018;1
+Ireland;101;Elderly;12;Vegetables;10486258;143,846;1,951;1
+Finland;70;Elderly;12;Vegetables;10486258;144,334;1,874;1
+France;75;Adults;10;Vegetables;10486258;144,709;2,151;1
+Austria;14;Adults;10;Meat;10487577;153,977;2,167;1
+Cyprus;54;Adolescents;7;Water and water based beverages;10489266;154,303;2,942;1
+Spain;67;Adults;10;Vegetables;10486258;145,002;2,045;1
+Portugal;180;Elderly;12;Vegetables;10486258;145,059;1,979;1
+Belgium;22;Adults;10;Fruit and fruit products;10487162;154,995;2,244;1
+Denmark;58;Adults;10;Fruit and fruit products;10487162;155,216;2,193;1
+Denmark;58;Elderly;12;Vegetables;10486258;146,266;2,069;1
+France;75;Adolescents;7;Vegetables;10486258;146,647;3,064;1
+Spain;67;Adolescents;7;Meat;10487577;155,334;2,951;1
+Italy;108;Elderly;12;Alcoholic beverages;10489503;155,482;2,127;1
+Ireland;101;Elderly;12;Meat;10487577;156,059;2,054;1
+Latvia;132;Adults;10;Milk and Milk based Products;10488473;156,067;2,057;1
+France;75;Adults;10;Meat;10487577;157,228;2,217;1
+Hungary;99;Elderly;12;Meat;10487577;157,334;2,117;1
+Poland;175;Adults;10;Fish;10488027;158,282;2,103;1
+Bulgaria;24;Adults;10;Fruit and fruit products;10487162;158,52;2,305;1
+Germany;56;Adolescents;7;Fruit and fruit products;10487162;158,547;2,564;1
+Italy;108;Adolescents;7;Fruit and fruit products;10487162;160,093;3,271;1
+Romania;185;Adults;10;Fruit and fruit products;10487162;160,581;2,281;1
+Bulgaria;24;Elderly;12;Fruit and fruit products;10487162;160,939;2,23;1
+Latvia;132;Elderly;12;Meat;10487577;161,253;2,023;1
+Slovakia;198;Adults;10;Meat;10487577;162,135;2,156;1
+Romania;185;Adolescents;7;Alcoholic beverages;10489503;162,149;2,568;1
+Ireland;101;Adults;10;Vegetables;10486258;150,979;2,073;1
+Estonia;63;Elderly;12;Vegetables;10486258;151,158;1,968;1
+Belgium;22;Elderly;12;Milk and Milk based Products;10488473;163,682;2,285;1
+Netherlands;162;Elderly;12;Vegetables;10486258;151,77;1,982;1
+Spain;67;Adults;10;Fruit and fruit products;10487162;164,096;2,336;1
+Finland;70;Elderly;12;Grains and grain products;10485778;152,905;2,013;1
+Finland;70;Adults;10;Grains and grain products;10485778;153,073;2,034;1
+Finland;70;Adults;10;Vegetables;10486258;153,348;2,066;1
+Hungary;99;Adults;10;Vegetables;10486258;154,11;2,175;1
+Estonia;63;Adults;10;Grains and grain products;10485778;154,36;2,071;1
+Estonia;63;Elderly;12;Grains and grain products;10485778;154,572;2,02;1
+Bulgaria;24;Infants;1;Milk and Milk based Products;10488473;166,434;20,663;1
+Spain;67;Adolescents;7;Meat;10487577;166,583;3,385;1
+Spain;67;Elderly;12;Vegetables;10486258;155,019;2,155;1
+Austria;14;Elderly;12;Fruit and fruit products;10487162;166,739;2,197;1
+Croatia;97;Adults;10;Coffee and Tea;10489360;167,233;2,279;1
+Portugal;180;Elderly;12;Fruit and fruit products;10487162;167,485;2,274;1
+Spain;67;Adults;10;Grains and grain products;10485778;156,018;2,199;1
+France;75;Adults;10;Fruit and fruit products;10487162;169,121;2,451;1
+Spain;67;Adolescents;7;Fruit and fruit products;10487162;170,801;3,62;1
+Ireland;101;Adults;10;Meat;10487577;171,479;2,299;1
+Latvia;132;Adolescents;7;Fruit and fruit products;10487162;172,252;3,542;1
+Croatia;97;Adults;10;Fruit and fruit products;10487162;173,22;2,384;1
+Denmark;58;Adolescents;7;Alcoholic beverages;10489503;173,39;2,621;1
+Denmark;58;Adults;10;Vegetables;10486258;162,029;2,274;1
+United Kingdom;77;Elderly;12;Vegetables;10486258;162,892;2,154;1
+Spain;67;Infants;1;Fruit and fruit products;10487162;174,838;19,599;1
+Estonia;63;Adults;10;Fruit and fruit products;10487162;174,849;2,61;1
+Latvia;132;Adolescents;7;Vegetables;10486258;163,654;3,36;1
+Latvia;132;Adolescents;7;Milk and Milk based Products;10488473;175,112;3,683;1
+France;75;Adults;10;Alcoholic beverages;10489503;175,347;2,439;1
+Netherlands;162;Elderly;12;Fruit and fruit products;10487162;176,114;2,289;1
+Estonia;63;Adults;10;Grains and grain products;10485778;165,562;2,395;1
+Hungary;99;Elderly;12;Vegetables;10486258;166,284;2,28;1
+Romania;185;Elderly;12;Fruit and fruit products;10487162;176,747;2,408;1
+Latvia;132;Adolescents;7;Fruit and fruit products;10487162;176,86;3,71;1
+Bulgaria;24;Elderly;12;Fish;10488027;177,241;2,494;1
+Estonia;63;Adolescents;7;Coffee and Tea;10489360;177,298;5,091;1
+Ireland;101;Adults;10;Meat;10487577;177,654;2,298;1
+Latvia;132;Adults;10;Fruit and fruit products;10487162;177,739;2,423;1
+Netherlands;162;Elderly;12;Fruit and fruit products;10487162;177,938;2,371;1
+Belgium;22;Elderly;12;Fruit and fruit products;10487162;177,982;2,501;1
+Poland;175;Elderly;12;Fish;10488027;178,074;2,207;1
+Germany;56;Adolescents;7;Coffee and Tea;10489360;178,748;4,726;1
+Slovenia;196;Adults;10;Vegetables;10486258;167,968;2,352;1
+Sweden;193;Adolescents;7;Grains and grain products;10485778;168,111;4,14;1
+Latvia;132;Adults;10;Fruit and fruit products;10487162;179,871;2,459;1
+Estonia;63;Adults;10;Vegetables;10486258;169,542;2,275;1
+Spain;67;Adults;10;Meat;10487577;180,152;2,687;1
+Denmark;58;Adults;10;Vegetables;10486258;169,756;2,347;1
+Sweden;193;Elderly;12;Fruit and fruit products;10487162;181,216;2,525;1
+Estonia;63;Adults;10;Meat;10487577;181,643;2,583;1
+Romania;185;Adults;10;Grains and grain products;10485778;171,81;2,376;1
+Czech Republic;55;Adults;10;Milk and Milk based Products;10488473;181,991;2,483;1
+Romania;185;Elderly;12;Milk and Milk based Products;10488473;182,202;2,5;1
+Latvia;132;Adolescents;7;Grains and grain products;10485778;172,042;3,538;1
+Portugal;180;Elderly;12;Grains and grain products;10485778;172,588;2,335;1
+Finland;70;Adults;10;Fruit and fruit products;10487162;182,971;2,493;1
+Sweden;193;Elderly;12;Grains and grain products;10485778;173,176;2,349;1
+Austria;14;Adults;10;Milk and Milk based Products;10488473;184,23;2,633;1
+Spain;67;Adults;10;Grains and grain products;10485778;174,809;2,634;1
+Italy;108;Elderly;12;Milk and Milk based Products;10488473;184,996;2,657;1
+Spain;67;Adolescents;7;Alcoholic beverages;10489503;185,001;2,845;1
+Portugal;180;Adults;10;Alcoholic beverages;10489503;185,618;2,429;1
+Spain;67;Adults;10;Fruit and fruit products;10487162;185,944;2,664;1
+Spain;67;Adolescents;7;Fruit and fruit products;10487162;186,581;3,086;1
+Estonia;63;Adolescents;7;Grains and grain products;10485778;175,244;4,708;1
+Latvia;132;Adults;10;Grains and grain products;10485778;176,224;2,314;1
+Spain;67;Adults;10;Grains and grain products;10485778;176,392;2,524;1
+Croatia;97;Adults;10;Vegetables;10486258;176,468;2,358;1
+Latvia;132;Elderly;12;Grains and grain products;10485778;176,812;2,207;1
+Spain;67;Elderly;12;Alcoholic beverages;10489503;187,547;2,545;1
+Germany;56;Elderly;12;Milk and Milk based Products;10488473;187,922;2,488;1
+Romania;185;Adolescents;7;Fish;10488027;188,048;4,113;1
+Czech Republic;55;Adults;10;Meat;10487577;188,068;2,474;1
+Austria;14;Adolescents;7;Coffee and Tea;10489360;188,252;4,191;1
+Estonia;63;Adolescents;7;Grains and grain products;10485778;177,882;3,221;1
+Bulgaria;24;Adults;10;Fish;10488027;188,569;2,842;1
+Romania;185;Elderly;12;Grains and grain products;10485778;178,032;2,47;1
+Hungary;99;Adults;10;Meat;10487577;189,218;2,645;1
+Finland;70;Adults;10;Fruit and fruit products;10487162;190,318;2,566;1
+Czech Republic;55;Adolescents;7;Fruit and fruit products;10487162;190,754;4,487;1
+Bulgaria;24;Adolescents;7;Coffee and Tea;10489360;191,166;3,277;1
+France;75;Elderly;12;Milk and Milk based Products;10488473;192,029;2,753;1
+Romania;185;Adults;10;Meat;10487577;192,097;2,636;1
+Austria;14;Adults;10;Fruit and fruit products;10487162;192,562;2,794;1
+Bulgaria;24;Adolescents;7;Vegetables;10486258;180,569;3,014;1
+Romania;185;Adolescents;7;Grains and grain products;10485778;180,596;3,923;1
+Sweden;193;Adults;10;Grains and grain products;10485778;180,723;2,452;1
+Netherlands;162;Elderly;12;Vegetables;10486258;181,089;2,39;1
+Belgium;22;Adults;10;Milk and Milk based Products;10488473;193,031;2,813;1
+Finland;70;Elderly;12;Fruit and fruit products;10487162;193,185;2,575;1
+Romania;185;Elderly;12;Coffee and Tea;10489360;193,4;2,667;1
+Latvia;132;Adults;10;Meat;10487577;194,171;2,493;1
+Bulgaria;24;Elderly;12;Coffee and Tea;10489360;194,194;2,691;1
+France;75;Elderly;12;Alcoholic beverages;10489503;194,312;2,559;1
+Germany;56;Infants;1;Water and water based beverages;10489266;195,086;22,24;1
+Portugal;180;Infants;1;Water and water based beverages;10489266;195,862;23,132;1
+Italy;108;Adults;10;Milk and Milk based Products;10488473;196,021;2,935;1
+Latvia;132;Elderly;12;Fruit and fruit products;10487162;197,003;2,475;1
+Poland;175;Adolescents;7;Meat;10487577;197,241;4,135;1
+Latvia;132;Adults;10;Milk and Milk based Products;10488473;197,279;2,626;1
+Hungary;99;Elderly;12;Alcoholic beverages;10489503;198,333;2,6;1
+France;75;Elderly;12;Vegetables;10486258;187,206;2,688;1
+Germany;56;Adults;10;Fruit and fruit products;10487162;198,678;2,704;1
+Romania;185;Adolescents;7;Meat;10487577;198,958;4,347;1
+Denmark;58;Elderly;12;Fruit and fruit products;10487162;199,151;2,814;1
+Denmark;58;Adults;10;Fruit and fruit products;10487162;199,523;2,762;1
+Slovenia;196;Adults;10;Meat;10487577;199,94;2,683;1
+Portugal;180;Adults;10;Grains and grain products;10485778;190,878;2,686;1
+Austria;14;Adults;10;Vegetables;10486258;190,969;2,854;1
+Belgium;22;Elderly;12;Grains and grain products;10485778;191,261;2,654;1
+United Kingdom;77;Elderly;12;Grains and grain products;10485778;192,822;2,491;1
+United Kingdom;77;Adults;10;Grains and grain products;10485778;193,641;2,593;1
+Poland;175;Adults;10;Milk and Milk based Products;10488473;202,026;2,894;1
+Croatia;97;Adults;10;Meat;10487577;202,172;2,655;1
+Bulgaria;24;Adults;10;Coffee and Tea;10489360;202,494;2,982;1
+Hungary;99;Adults;10;Fruit and fruit products;10487162;202,757;2,889;1
+Denmark;58;Elderly;12;Grains and grain products;10485778;194,277;2,604;1
+Latvia;132;Elderly;12;Vegetables;10486258;194,444;2,447;1
+Spain;67;Adults;10;Vegetables;10486258;194,955;2,973;1
+United Kingdom;77;Adults;10;Milk and Milk based Products;10488473;203,394;2,747;1
+Italy;108;Adolescents;7;Vegetables;10486258;195,518;3,847;1
+Bulgaria;24;Adults;10;Milk and Milk based Products;10488473;203,627;2,897;1
+Italy;108;Adults;10;Fruit and fruit products;10487162;203,748;3,036;1
+Slovakia;198;Adults;10;Milk and Milk based Products;10488473;203,761;2,809;1
+Spain;67;Adolescents;7;Meat;10487577;204,398;3,284;1
+Denmark;58;Adolescents;7;Alcoholic beverages;10489503;204,72;3,259;1
+Romania;185;Adolescents;7;Coffee and Tea;10489360;205,367;4,47;1
+Denmark;58;Elderly;12;Grains and grain products;10485778;196,974;2,749;1
+Germany;56;Adults;10;Milk and Milk based Products;10488473;205,471;2,78;1
+Romania;185;Adolescents;7;Fruit and fruit products;10487162;205,614;4,372;1
+United Kingdom;77;Adolescents;7;Grains and grain products;10485778;199,081;3,855;1
+United Kingdom;77;Adolescents;7;Milk and Milk based Products;10488473;207,62;4,124;1
+Austria;14;Adults;10;Grains and grain products;10485778;199,519;2,927;1
+Portugal;180;Adults;10;Coffee and Tea;10489360;211,024;3,003;1
+Austria;14;Adults;10;Milk and Milk based Products;10488473;211,231;3,144;1
+France;75;Adults;10;Milk and Milk based Products;10488473;211,528;3,169;1
+Estonia;63;Adolescents;7;Alcoholic beverages;10489503;211,667;4,892;1
+Spain;67;Adults;10;Fruit and fruit products;10487162;212,183;3,196;1
+United Kingdom;77;Infants;1;Milk and Milk based Products;10488473;212,911;24,297;1
+Romania;185;Adults;10;Alcoholic beverages;10489503;213,865;2,696;1
+Austria;14;Adolescents;7;Milk and Milk based Products;10488473;214,502;4,732;1
+Finland;70;Elderly;12;Fruit and fruit products;10487162;214,891;2,806;1
+Croatia;97;Adults;10;Milk and Milk based Products;10488473;215,191;2,949;1
+Portugal;180;Elderly;12;Coffee and Tea;10489360;215,747;2,96;1
+Czech Republic;55;Adolescents;7;Alcoholic beverages;10489503;216,068;3,773;1
+Germany;56;Adolescents;7;Milk and Milk based Products;10488473;216,511;3,493;1
+Slovakia;198;Adults;10;Fruit and fruit products;10487162;216,716;3,008;1
+Denmark;58;Elderly;12;Fruit and fruit products;10487162;216,767;2,918;1
+Sweden;193;Elderly;12;Alcoholic beverages;10489503;216,892;2,872;1
+Estonia;63;Adolescents;7;Fruit and fruit products;10487162;217,726;5,879;1
+France;75;Elderly;12;Alcoholic beverages;10489503;218,047;2,81;1
+Spain;67;Adults;10;Vegetables;10486258;201,891;2,917;1
+Hungary;99;Elderly;12;Coffee and Tea;10489360;218,576;2,975;1
+France;75;Adults;10;Alcoholic beverages;10489503;218,653;3,016;1
+Netherlands;162;Elderly;12;Grains and grain products;10485778;203,64;2,65;1
+Netherlands;162;Elderly;12;Grains and grain products;10485778;203,807;2,651;1
+Bulgaria;24;Adults;10;Vegetables;10486258;204,781;2,919;1
+Hungary;99;Elderly;12;Fruit and fruit products;10487162;220,017;2,972;1
+France;75;Elderly;12;Fruit and fruit products;10487162;220,334;3,12;1
+France;75;Elderly;12;Grains and grain products;10485778;206,585;2,873;1
+Bulgaria;24;Elderly;12;Alcoholic beverages;10489503;222,619;2,879;1
+Denmark;58;Adolescents;7;Grains and grain products;10485778;208,034;4,187;1
+Latvia;132;Adolescents;7;Grains and grain products;10485778;208,465;4,259;1
+Denmark;58;Adults;10;Grains and grain products;10485778;209,16;2,832;1
+Bulgaria;24;Adolescents;7;Milk and Milk based Products;10488473;224,908;3,704;1
+Latvia;132;Adults;10;Vegetables;10486258;210,887;2,8;1
+Denmark;58;Adolescents;7;Grains and grain products;10485778;210,901;4,29;1
+Germany;56;Infants;1;Milk and Milk based Products;10488473;225,836;26,219;1
+France;75;Elderly;12;Fruit and fruit products;10487162;225,906;3,275;1
+Finland;70;Elderly;12;Alcoholic beverages;10489503;226,374;2,96;1
+Estonia;63;Adults;10;Vegetables;10486258;212,629;3,099;1
+Croatia;97;Adults;10;Grains and grain products;10485778;214,364;2,869;1
+Belgium;22;Adults;10;Grains and grain products;10485778;214,52;3,112;1
+France;75;Elderly;12;Grains and grain products;10485778;215,321;3,066;1
+Spain;67;Adolescents;7;Grains and grain products;10485778;215,983;3,459;1
+Bulgaria;24;Adolescents;7;Fruit and fruit products;10487162;228,658;3,737;1
+Denmark;58;Adults;10;Grains and grain products;10485778;217,119;2,99;1
+Bulgaria;24;Adolescents;7;Fish;10488027;231,35;4,309;1
+Ireland;101;Adults;10;Grains and grain products;10485778;217,551;2,948;1
+France;75;Infants;1;Water and water based beverages;10489266;234,122;35,642;1
+Poland;175;Elderly;12;Meat;10487577;235,975;3,156;1
+Estonia;63;Adolescents;7;Fruit and fruit products;10487162;236,241;4,219;1
+France;75;Elderly;12;Milk and Milk based Products;10488473;236,44;3,303;1
+Spain;67;Adults;10;Alcoholic beverages;10489503;236,552;3,119;1
+Hungary;99;Adults;10;Coffee and Tea;10489360;237,521;3,411;1
+Latvia;132;Adults;10;Grains and grain products;10485778;221,065;2,912;1
+Latvia;132;Elderly;12;Milk and Milk based Products;10488473;237,675;3,008;1
+Cyprus;54;Adolescents;7;Milk and Milk based Products;10488473;237,739;4,758;1
+Spain;67;Adolescents;7;Grains and grain products;10485778;222,886;4,657;1
+Netherlands;162;Adults;10;Grains and grain products;10485778;224,39;2,946;1
+Estonia;63;Adolescents;7;Coffee and Tea;10489360;238,32;4,342;1
+Belgium;22;Adolescents;7;Milk and Milk based Products;10488473;239,192;3,958;1
+Spain;67;Elderly;12;Fruit and fruit products;10487162;239,268;3,348;1
+Portugal;180;Elderly;12;Alcoholic beverages;10489503;240,326;3,025;1
+Sweden;193;Adults;10;Alcoholic beverages;10489503;240,357;3,252;1
+Portugal;180;Elderly;12;Milk and Milk based Products;10488473;240,449;3,301;1
+Finland;70;Infants;1;Water and water based beverages;10489266;240,72;30,146;1
+France;75;Adults;10;Grains and grain products;10485778;225,602;3,327;1
+Germany;56;Elderly;12;Fruit and fruit products;10487162;242,291;3,205;1
+United Kingdom;77;Adults;10;Grains and grain products;10485778;227,241;3,049;1
+Netherlands;162;Adolescents;7;Grains and grain products;10485778;227,514;4,41;1
+Slovenia;196;Adults;10;Milk and Milk based Products;10488473;243,915;3,464;1
+Portugal;180;Adolescents;7;Grains and grain products;10485778;230,446;4,602;1
+Bulgaria;24;Elderly;12;Vegetables;10486258;230,611;3,175;1
+Latvia;132;Adolescents;7;Milk and Milk based Products;10488473;245,239;5,123;1
+Hungary;99;Elderly;12;Grains and grain products;10485778;232,289;3,171;1
+Netherlands;162;Adults;10;Grains and grain products;10485778;232,326;3,155;1
+Sweden;193;Adults;10;Grains and grain products;10485778;232,387;3,233;1
+Latvia;132;Adults;10;Alcoholic beverages;10489503;247,231;3,116;1
+Germany;56;Adults;10;Grains and grain products;10485778;233,759;3,129;1
+France;75;Adolescents;7;Grains and grain products;10485778;234,262;4,821;1
+France;75;Adults;10;Grains and grain products;10485778;235,235;3,356;1
+Italy;108;Adolescents;7;Milk and Milk based Products;10488473;249,325;5,015;1
+Germany;56;Elderly;12;Grains and grain products;10485778;237,069;3,086;1
+Germany;56;Adolescents;7;Grains and grain products;10485778;237,334;3,816;1
+Belgium;22;Adolescents;7;Grains and grain products;10485778;240,391;3,976;1
+Poland;175;Adolescents;7;Vegetables;10486258;240,457;4,876;1
+Estonia;63;Elderly;12;Fruit and fruit products;10487162;250,419;3,268;1
+Belgium;22;Adolescents;7;Coffee and Tea;10489360;250,747;4,171;1
+Spain;67;Adults;10;Alcoholic beverages;10489503;251,04;3,376;1
+Hungary;99;Adults;10;Grains and grain products;10485778;240,534;3,385;1
+France;75;Adults;10;Vegetables;10486258;240,793;3,458;1
+Italy;108;Adults;10;Vegetables;10486258;240,882;3,542;1
+Italy;108;Elderly;12;Grains and grain products;10485778;242,933;3,446;1
+Hungary;99;Adults;10;Alcoholic beverages;10489503;254,331;3,276;1
+Germany;56;Adolescents;7;Grains and grain products;10485778;243,605;6,351;1
+Sweden;193;Adults;10;Alcoholic beverages;10489503;257,223;3,383;1
+Poland;175;Elderly;12;Vegetables;10486258;245,518;3,361;1
+France;75;Adolescents;7;Grains and grain products;10485778;245,537;5,026;1
+France;75;Adults;10;Milk and Milk based Products;10488473;258,229;3,689;1
+Bulgaria;24;Elderly;12;Milk and Milk based Products;10488473;258,44;3,547;1
+United Kingdom;77;Elderly;12;Milk and Milk based Products;10488473;258,762;3,394;1
+Bulgaria;24;Elderly;12;Grains and grain products;10485778;247,821;3,438;1
+Austria;14;Adolescents;7;Grains and grain products;10485778;248,487;5,493;1
+Slovenia;196;Adults;10;Grains and grain products;10485778;249,458;3,466;1
+Italy;108;Elderly;12;Vegetables;10486258;249,891;3,56;1
+Hungary;99;Adults;10;Milk and Milk based Products;10488473;262,417;3,732;1
+Romania;185;Adolescents;7;Milk and Milk based Products;10488473;262,723;5,81;1
+Austria;14;Adults;10;Fruit and fruit products;10487162;264,532;3,928;1
+Estonia;63;Adults;10;Fruit and fruit products;10487162;265,294;3,601;1
+Italy;108;Elderly;12;Fruit and fruit products;10487162;268,479;3,821;1
+Ireland;101;Elderly;12;Milk and Milk based Products;10488473;268,907;3,733;1
+Italy;108;Adults;10;Grains and grain products;10485778;252,659;3,701;1
+United Kingdom;77;Adults;10;Milk and Milk based Products;10488473;272,686;3,701;1
+Spain;67;Adolescents;7;Grains and grain products;10485778;254,222;5,178;1
+Austria;14;Elderly;12;Grains and grain products;10485778;255,212;3,304;1
+Poland;175;Elderly;12;Milk and Milk based Products;10488473;272,931;3,717;1
+Portugal;180;Adults;10;Milk and Milk based Products;10488473;273,423;3,891;1
+Slovenia;196;Adults;10;Alcoholic beverages;10489503;273,739;3,572;1
+Ireland;101;Adults;10;Milk and Milk based Products;10488473;274,137;3,622;1
+France;75;Adolescents;7;Milk and Milk based Products;10488473;277,708;5,83;1
+Slovakia;198;Adults;10;Grains and grain products;10485778;260,364;3,576;1
+Ireland;101;Adults;10;Grains and grain products;10485778;261,13;3,436;1
+Bulgaria;24;Adults;10;Grains and grain products;10485778;261,232;3,686;1
+Hungary;99;Elderly;12;Milk and Milk based Products;10488473;278,431;3,747;1
+Austria;14;Adults;10;Grains and grain products;10485778;263,197;3,788;1
+Slovenia;196;Adults;10;Coffee and Tea;10489360;279,004;4,071;1
+Poland;175;Adolescents;7;Milk and Milk based Products;10488473;279,426;6,016;1
+Netherlands;162;Elderly;12;Alcoholic beverages;10489503;280,38;3,597;1
+Poland;175;Adults;10;Meat;10487577;281,521;3,88;1
+Poland;175;Elderly;12;Grains and grain products;10485778;266,359;3,635;1
+Spain;67;Adolescents;7;Grains and grain products;10485778;266,765;5,071;1
+Czech Republic;55;Adolescents;7;Milk and Milk based Products;10488473;284,05;6,484;1
+Bulgaria;24;Elderly;12;Water and water based beverages;10489266;284,338;3,966;1
+Ireland;101;Elderly;12;Grains and grain products;10485778;273,033;3,651;1
+Estonia;63;Elderly;12;Milk and Milk based Products;10488473;286,162;3,741;1
+Poland;175;Adolescents;7;Alcoholic beverages;10489503;287,5;5,593;1
+Slovenia;196;Adults;10;Fruit and fruit products;10487162;290,018;4,151;1
+Sweden;193;Adults;10;Milk and Milk based Products;10488473;292,751;3,962;1
+Czech Republic;55;Adolescents;7;Grains and grain products;10485778;276,464;6,153;1
+Finland;70;Adults;10;Grains and grain products;10485778;277,337;3,722;1
+Czech Republic;55;Adults;10;Grains and grain products;10485778;277,926;3,71;1
+Sweden;193;Elderly;12;Milk and Milk based Products;10488473;294,213;3,998;1
+Italy;108;Adolescents;7;Grains and grain products;10485778;280,629;5,562;1
+Poland;175;Elderly;12;Water and water based beverages;10489266;297,352;3,95;1
+Latvia;132;Adolescents;7;Water and water based beverages;10489266;298,218;5,883;1
+Estonia;63;Adults;10;Milk and Milk based Products;10488473;299,582;4,021;1
+Germany;56;Adolescents;7;Milk and Milk based Products;10488473;299,611;7,835;1
+Latvia;132;Elderly;12;Alcoholic beverages;10489503;300,635;3,675;1
+Netherlands;162;Elderly;12;Alcoholic beverages;10489503;302,934;3,792;1
+Latvia;132;Adults;10;Water and water based beverages;10489266;304,334;3,965;1
+Poland;175;Adults;10;Vegetables;10486258;298,044;4,163;1
+Denmark;58;Infants;1;Water and water based beverages;10489266;306,629;33,672;1
+Latvia;132;Adolescents;7;Coffee and Tea;10489360;307,901;6,359;1
+Latvia;132;Adolescents;7;Coffee and Tea;10489360;307,962;6,339;1
+Estonia;63;Elderly;12;Alcoholic beverages;10489503;308,104;3,924;1
+Ireland;101;Adults;10;Milk and Milk based Products;10488473;310,568;4,249;1
+Spain;67;Infants;1;Milk and Milk based Products;10488473;313,048;35,391;1
+Finland;70;Elderly;12;Alcoholic beverages;10489503;313,09;3,786;1
+Hungary;99;Elderly;12;Water and water based beverages;10489266;319,618;4,19;1
+Denmark;58;Infants;1;Milk and Milk based Products;10488473;319,677;35,633;1
+Denmark;58;Adults;10;Alcoholic beverages;10489503;323,824;4,255;1
+Spain;67;Elderly;12;Milk and Milk based Products;10488473;325,03;4,515;1
+France;75;Elderly;12;Vegetables;10486258;304,914;4,331;1
+Poland;175;Elderly;12;Fruit and fruit products;10487162;327,376;4,513;1
+Spain;67;Adults;10;Milk and Milk based Products;10488473;328,256;4,673;1
+Netherlands;162;Adolescents;7;Coffee and Tea;10489360;329,963;6,237;1
+Austria;14;Adults;10;Alcoholic beverages;10489503;331,152;4,884;1
+Denmark;58;Elderly;12;Milk and Milk based Products;10488473;332,297;4,472;1
+Poland;175;Adults;10;Grains and grain products;10485778;310,651;4,366;1
+Austria;14;Elderly;12;Alcoholic beverages;10489503;333,777;4,302;1
+Poland;175;Adults;10;Water and water based beverages;10489266;334,323;4,679;1
+Austria;14;Adults;10;Alcoholic beverages;10489503;335,549;4,495;1
+Latvia;132;Adults;10;Alcoholic beverages;10489503;336,387;4,275;1
+Finland;70;Elderly;12;Grains and grain products;10485778;321,515;4,197;1
+Belgium;22;Elderly;12;Alcoholic beverages;10489503;340,34;4,564;1
+Poland;175;Adults;10;Fruit and fruit products;10487162;340,797;4,893;1
+Poland;175;Adolescents;7;Grains and grain products;10485778;325,761;6,943;1
+Bulgaria;24;Adolescents;7;Grains and grain products;10485778;329,677;5,515;1
+Netherlands;162;Elderly;12;Milk and Milk based Products;10488473;344,183;4,393;1
+Netherlands;162;Elderly;12;Milk and Milk based Products;10488473;344,986;4,49;1
+Poland;175;Adolescents;7;Water and water based beverages;10489266;347,229;7,267;1
+Denmark;58;Elderly;12;Milk and Milk based Products;10488473;348,476;4,966;1
+France;75;Adolescents;7;Milk and Milk based Products;10488473;349,621;7,226;1
+Bulgaria;24;Infants;1;Water and water based beverages;10489266;349,946;54,287;1
+Poland;175;Elderly;12;Alcoholic beverages;10489503;355;4,642;1
+Denmark;58;Adults;10;Alcoholic beverages;10489503;356,163;4,704;1
+Romania;185;Adolescents;7;Vegetables;10486258;339,479;7,328;1
+Belgium;22;Adolescents;7;Alcoholic beverages;10489503;358,591;5,675;1
+Denmark;58;Elderly;12;Alcoholic beverages;10489503;358,637;4,717;1
+Denmark;58;Elderly;12;Alcoholic beverages;10489503;359,912;4,89;1
+Spain;67;Adults;10;Milk and Milk based Products;10488473;360,414;5,247;1
+Portugal;180;Infants;1;Milk and Milk based Products;10488473;361,372;43,87;1
+Estonia;63;Adults;10;Milk and Milk based Products;10488473;363,267;5,272;1
+Hungary;99;Adults;10;Water and water based beverages;10489266;367,171;5,171;1
+United Kingdom;77;Elderly;12;Alcoholic beverages;10489503;369,01;4,525;1
+Denmark;58;Adults;10;Milk and Milk based Products;10488473;372,037;5,043;1
+Sweden;193;Adults;10;Milk and Milk based Products;10488473;375,544;5,246;1
+Netherlands;162;Adults;10;Milk and Milk based Products;10488473;376,631;4,916;1
+Croatia;97;Adults;10;Alcoholic beverages;10489503;378,106;4,637;1
+Estonia;63;Adults;10;Water and water based beverages;10489266;379,439;5,518;1
+Poland;175;Adolescents;7;Fruit and fruit products;10487162;380,44;8,053;1
+Denmark;58;Adults;10;Milk and Milk based Products;10488473;383,028;5,307;1
+Estonia;63;Adolescents;7;Milk and Milk based Products;10488473;383,714;7,054;1
+France;75;Elderly;12;Coffee and Tea;10489360;383,882;5,536;1
+Germany;56;Adolescents;7;Alcoholic beverages;10489503;386,398;5,7;1
+Ireland;101;Elderly;12;Alcoholic beverages;10489503;391,195;4,61;1
+Netherlands;162;Adults;10;Milk and Milk based Products;10488473;391,753;5,292;1
+Portugal;180;Adolescents;7;Milk and Milk based Products;10488473;393,281;8,022;1
+Romania;185;Adults;10;Vegetables;10486258;381,907;5,313;1
+Finland;70;Elderly;12;Milk and Milk based Products;10488473;394,222;5,11;1
+Estonia;63;Adults;10;Coffee and Tea;10489360;394,418;5,784;1
+Romania;185;Elderly;12;Vegetables;10486258;383,25;5,301;1
+Belgium;22;Adults;10;Alcoholic beverages;10489503;395,238;5,353;1
+Spain;67;Adults;10;Milk and Milk based Products;10488473;397,413;6,044;1
+Finland;70;Adults;10;Alcoholic beverages;10489503;400,839;5,101;1
+United Kingdom;77;Adults;10;Alcoholic beverages;10489503;405,384;5,272;1
+Netherlands;162;Adolescents;7;Milk and Milk based Products;10488473;405,595;8,018;1
+Spain;67;Adolescents;7;Milk and Milk based Products;10488473;409,182;8,594;1
+Romania;185;Elderly;12;Water and water based beverages;10489266;410,975;5,656;1
+Spain;67;Adolescents;7;Milk and Milk based Products;10488473;414,377;6,738;1
+Netherlands;162;Adolescents;7;Alcoholic beverages;10489503;415,232;6,001;1
+Sweden;193;Adolescents;7;Milk and Milk based Products;10488473;415,579;10,201;1
+Germany;56;Elderly;12;Alcoholic beverages;10489503;416,295;5,169;1
+Bulgaria;24;Adults;10;Alcoholic beverages;10489503;417,041;5,608;1
+France;75;Adults;10;Coffee and Tea;10489360;417,731;6,361;1
+Germany;56;Adolescents;7;Coffee and Tea;10489360;418,145;6,782;1
+Estonia;63;Adults;10;Alcoholic beverages;10489503;420,26;5,213;1
+France;75;Infants;1;Milk and Milk based Products;10488473;425,185;83,211;1
+Finland;70;Adults;10;Alcoholic beverages;10489503;427,438;5,255;1
+Italy;108;Infants;1;Water and water based beverages;10489266;428,623;64,179;1
+Bulgaria;24;Adults;10;Water and water based beverages;10489266;431,686;6,311;1
+Austria;14;Elderly;12;Coffee and Tea;10489360;433,531;5,678;1
+Sweden;193;Adolescents;7;Water and water based beverages;10489266;435,962;10,45;1
+Spain;67;Adolescents;7;Milk and Milk based Products;10488473;436,637;9,234;1
+Estonia;63;Adolescents;7;Milk and Milk based Products;10488473;439,298;11,764;1
+Latvia;132;Elderly;12;Water and water based beverages;10489266;440,324;5,52;1
+Germany;56;Adults;10;Alcoholic beverages;10489503;442,41;5,593;1
+Italy;108;Infants;1;Milk and Milk based Products;10488473;447,597;80,353;1
+Ireland;101;Adults;10;Water and water based beverages;10489266;448,183;6,136;1
+Finland;70;Adults;10;Milk and Milk based Products;10488473;448,289;5,975;1
+Finland;70;Elderly;12;Milk and Milk based Products;10488473;449,05;5,89;1
+Estonia;63;Elderly;12;Coffee and Tea;10489360;451,339;5,917;1
+Poland;175;Adolescents;7;Coffee and Tea;10489360;452,968;9,746;1
+Netherlands;162;Adults;10;Alcoholic beverages;10489503;455,934;5,683;1
+Finland;70;Adults;10;Milk and Milk based Products;10488473;457,503;6,098;1
+Denmark;58;Adolescents;7;Milk and Milk based Products;10488473;460,126;9,311;1
+Spain;67;Adolescents;7;Milk and Milk based Products;10488473;461,168;8,96;1
+Estonia;63;Adolescents;7;Alcoholic beverages;10489503;461,923;7,524;1
+Latvia;132;Adults;10;Coffee and Tea;10489360;467,351;6,27;1
+United Kingdom;77;Adults;10;Alcoholic beverages;10489503;475,984;6,121;1
+Bulgaria;24;Adolescents;7;Alcoholic beverages;10489503;476,834;7,909;1
+Romania;185;Adults;10;Water and water based beverages;10489266;476,857;6,672;1
+United Kingdom;77;Adults;10;Coffee and Tea;10489360;480,531;6,481;1
+Austria;14;Adults;10;Coffee and Tea;10489360;485,896;7,254;1
+Latvia;132;Elderly;12;Coffee and Tea;10489360;496,01;6,338;1
+Latvia;132;Adults;10;Water and water based beverages;10489266;497,299;6,682;1
+Ireland;101;Adults;10;Coffee and Tea;10489360;500,212;6,722;1
+Poland;175;Adults;10;Alcoholic beverages;10489503;501,727;6,531;1
+Austria;14;Adults;10;Coffee and Tea;10489360;503,088;7,177;1
+Ireland;101;Adults;10;Alcoholic beverages;10489503;504,141;6,684;1
+Sweden;193;Adults;10;Coffee and Tea;10489360;504,736;6,87;1
+Bulgaria;24;Adolescents;7;Water and water based beverages;10489266;505,192;8,103;1
+Belgium;22;Adults;10;Coffee and Tea;10489360;505,936;7,223;1
+Estonia;63;Adults;10;Coffee and Tea;10489360;510,843;6,968;1
+Ireland;101;Elderly;12;Water and water based beverages;10489266;511,728;7,177;1
+United Kingdom;77;Adults;10;Coffee and Tea;10489360;511,751;7,06;1
+France;75;Adults;10;Coffee and Tea;10489360;512,295;7,468;1
+Denmark;58;Adolescents;7;Milk and Milk based Products;10488473;513,475;10,551;1
+France;75;Elderly;12;Coffee and Tea;10489360;518,299;7,453;1
+Sweden;193;Elderly;12;Coffee and Tea;10489360;523,226;7,184;1
+Latvia;132;Infants;1;Milk and Milk based Products;10488473;526,249;83,504;1
+Finland;70;Elderly;12;Coffee and Tea;10489360;530,207;7,008;1
+Ireland;101;Adults;10;Alcoholic beverages;10489503;531,136;6,698;1
+Slovakia;198;Adults;10;Coffee and Tea;10489360;531,147;7,461;1
+Netherlands;162;Adults;10;Alcoholic beverages;10489503;542,921;7,25;1
+Sweden;193;Elderly;12;Water and water based beverages;10489266;551,784;7,628;1
+Slovakia;198;Adults;10;Alcoholic beverages;10489503;567,501;6,95;1
+Belgium;22;Elderly;12;Coffee and Tea;10489360;577,13;8,131;1
+Netherlands;162;Elderly;12;Water and water based beverages;10489266;579,442;7,563;1
+Latvia;132;Adults;10;Coffee and Tea;10489360;582,44;7,821;1
+Latvia;132;Adolescents;7;Water and water based beverages;10489266;583,261;11,925;1
+Finland;70;Elderly;12;Coffee and Tea;10489360;586,62;7,635;1
+Netherlands;162;Elderly;12;Water and water based beverages;10489266;599,091;7,772;1
+Estonia;63;Adolescents;7;Water and water based beverages;10489266;600,624;15,727;1
+Spain;67;Adolescents;7;Water and water based beverages;10489266;605,477;12,539;1
+Sweden;193;Adults;10;Coffee and Tea;10489360;607,778;8,458;1
+Ireland;101;Elderly;12;Coffee and Tea;10489360;615,822;8,354;1
+Slovenia;196;Adults;10;Water and water based beverages;10489266;616,744;8,488;1
+Finland;70;Adolescents;7;Milk and Milk based Products;10488473;623,079;11,781;1
+United Kingdom;77;Elderly;12;Coffee and Tea;10489360;625,034;8,128;1
+Spain;67;Elderly;12;Water and water based beverages;10489266;626,127;8,748;1
+Romania;185;Adolescents;7;Water and water based beverages;10489266;628,061;13,346;1
+Spain;67;Adults;10;Water and water based beverages;10489266;632,788;9,629;1
+Finland;70;Adults;10;Coffee and Tea;10489360;635,936;8,519;1
+Poland;175;Elderly;12;Coffee and Tea;10489360;636,989;8,807;1
+Spain;67;Adolescents;7;Water and water based beverages;10489266;637,831;10,224;1
+Italy;108;Elderly;12;Water and water based beverages;10489266;639,179;9,117;1
+Belgium;22;Elderly;12;Water and water based beverages;10489266;656,983;9,147;1
+Finland;70;Adults;10;Coffee and Tea;10489360;670,205;8,909;1
+Spain;67;Adolescents;7;Water and water based beverages;10489266;671,497;13,753;1
+France;75;Adolescents;7;Water and water based beverages;10489266;673,943;13,533;1
+Finland;70;Elderly;12;Water and water based beverages;10489266;674,379;8,883;1
+United Kingdom;77;Elderly;12;Water and water based beverages;10489266;689,652;9;1
+Germany;56;Adolescents;7;Water and water based beverages;10489266;690,069;17,683;1
+Austria;14;Adolescents;7;Water and water based beverages;10489266;693,661;14,996;1
+Spain;67;Adults;10;Water and water based beverages;10489266;705,213;10,17;1
+Italy;108;Adolescents;7;Water and water based beverages;10489266;710,033;14,04;1
+Italy;108;Adults;10;Water and water based beverages;10489266;710,341;10,597;1
+Poland;175;Adults;10;Coffee and Tea;10489360;714,692;10,219;1
+Estonia;63;Elderly;12;Water and water based beverages;10489266;718,822;9,171;1
+Sweden;193;Adults;10;Water and water based beverages;10489266;736,841;10,392;1
+Sweden;193;Adults;10;Water and water based beverages;10489266;744,657;10,185;1
+United Kingdom;77;Adults;10;Water and water based beverages;10489266;744,818;10,121;1
+Czech Republic;55;Adults;10;Alcoholic beverages;10489503;745,146;9,457;1
+Spain;67;Adults;10;Water and water based beverages;10489266;747,934;10,532;1
+Finland;70;Adolescents;7;Water and water based beverages;10489266;754,788;14,022;1
+Ireland;101;Adults;10;Coffee and Tea;10489360;760,879;10,488;1
+United Kingdom;77;Adolescents;7;Water and water based beverages;10489266;775,06;14,583;1
+Estonia;63;Adults;10;Alcoholic beverages;10489503;784,232;10,073;1
+Denmark;58;Elderly;12;Water and water based beverages;10489266;785,954;11,211;1
+Germany;56;Adults;10;Coffee and Tea;10489360;797,799;10,776;1
+Estonia;63;Adolescents;7;Water and water based beverages;10489266;799,166;13,839;1
+Portugal;180;Elderly;12;Water and water based beverages;10489266;800,066;10,888;1
+Netherlands;162;Adults;10;Coffee and Tea;10489360;800,222;11,067;1
+France;75;Adolescents;7;Water and water based beverages;10489266;812,644;16,24;1
+Denmark;58;Adults;10;Coffee and Tea;10489360;818,332;11,009;1
+Netherlands;162;Adults;10;Coffee and Tea;10489360;824,272;10,782;1
+Ireland;101;Adults;10;Water and water based beverages;10489266;828,22;11,061;1
+Germany;56;Elderly;12;Coffee and Tea;10489360;834,783;10,998;1
+France;75;Elderly;12;Water and water based beverages;10489266;838,192;11,821;1
+France;75;Elderly;12;Water and water based beverages;10489266;840,189;11,974;1
+Netherlands;162;Elderly;12;Coffee and Tea;10489360;871,29;11,387;1
+Denmark;58;Elderly;12;Water and water based beverages;10489266;873,595;11,882;1
+Estonia;63;Adults;10;Water and water based beverages;10489266;878,023;11,724;1
+France;75;Adults;10;Water and water based beverages;10489266;886,953;13,136;1
+Netherlands;162;Adults;10;Water and water based beverages;10489266;891,725;12,088;1
+Denmark;58;Elderly;12;Coffee and Tea;10489360;896,81;12,035;1
+Portugal;180;Adolescents;7;Water and water based beverages;10489266;900,097;17,473;1
+Spain;67;Adolescents;7;Water and water based beverages;10489266;901,974;16,882;1
+Denmark;58;Adults;10;Coffee and Tea;10489360;902,064;12,444;1
+Netherlands;162;Elderly;12;Coffee and Tea;10489360;902,75;11,853;1
+Netherlands;162;Adolescents;7;Water and water based beverages;10489266;905,771;17,347;1
+Finland;70;Elderly;12;Water and water based beverages;10489266;912,728;12,216;1
+United Kingdom;77;Adults;10;Water and water based beverages;10489266;913,757;12,161;1
+Germany;56;Elderly;12;Water and water based beverages;10489266;929,837;12,183;1
+Denmark;58;Adolescents;7;Water and water based beverages;10489266;931,848;18,574;1
+Netherlands;162;Adults;10;Water and water based beverages;10489266;933,316;12,273;1
+Finland;70;Adults;10;Water and water based beverages;10489266;955,932;12,869;1
+Portugal;180;Adults;10;Water and water based beverages;10489266;958,564;13,434;1
+Belgium;22;Adults;10;Water and water based beverages;10489266;983,29;14,237;1
+Denmark;58;Elderly;12;Coffee and Tea;10489360;988,626;14,096;1
+Austria;14;Adults;10;Water and water based beverages;10489266;997,083;14,73;1
+Denmark;58;Adolescents;7;Water and water based beverages;10489266;997,601;19,846;1
+Austria;14;Elderly;12;Water and water based beverages;10489266;1016,678;13,257;1
+Belgium;22;Adolescents;7;Water and water based beverages;10489266;1017,066;16,642;1
+Slovakia;198;Adults;10;Water and water based beverages;10489266;1033,292;14,037;1
+Finland;70;Adults;10;Water and water based beverages;10489266;1034,879;13,846;1
+Germany;56;Adolescents;7;Water and water based beverages;10489266;1052,497;16,611;1
+Denmark;58;Adults;10;Water and water based beverages;10489266;1066,79;14,949;1
+France;75;Adults;10;Water and water based beverages;10489266;1082,971;15,339;1
+Czech Republic;55;Adolescents;7;Water and water based beverages;10489266;1096,088;24,137;1
+Germany;56;Adults;10;Water and water based beverages;10489266;1196,345;16,03;1
+Denmark;58;Adults;10;Water and water based beverages;10489266;1234,844;17,023;1
+Austria;14;Adults;10;Water and water based beverages;10489266;1247,025;18,216;1
+Croatia;97;Adults;10;Water and water based beverages;10489266;1312,432;17,735;1
+Czech Republic;55;Adults;10;Water and water based beverages;10489266;1426,705;19,545;1
